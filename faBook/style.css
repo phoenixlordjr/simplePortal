@@ -1,0 +1,12 @@
+body {
+  background-image: url(/media/jpeg/Ivory-blog-feature-image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100%;
+  color: rgb(68, 24, 211);
+  padding: 13%;
+  margin: auto;
+}
+button {
+  color: blue;
+}
